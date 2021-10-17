@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:smithing_table"
+  },
+  "addition": {
+    "item": "extra_tools:corruptedingot"
+  },
+  "result": {
+    "item": "extra_tools:corruptingtable"
+  }
+}

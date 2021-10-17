@@ -1,0 +1,11 @@
+{
+  "press_start": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "extra_tools:press_start",
+        "stream": true
+      }
+    ]
+  }
+}

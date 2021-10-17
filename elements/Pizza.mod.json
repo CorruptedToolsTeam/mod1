@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Doughfood"
+      },
+      {
+        "value": "CUSTOM:Doughfood"
+      },
+      {
+        "value": "CUSTOM:Doughfood"
+      },
+      {
+        "value": "CUSTOM:Cheesefood"
+      },
+      {
+        "value": "CUSTOM:Peperoni"
+      },
+      {
+        "value": "CUSTOM:Cheesefood"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Cheesefood"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Pizzafood"
+    },
+    "name": "pizza",
+    "namespace": "mod"
+  }
+}

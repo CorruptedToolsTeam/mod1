@@ -1,0 +1,36 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "extra_tools:doughfood"
+    },
+    "1": {
+      "item": "extra_tools:doughfood"
+    },
+    "2": {
+      "item": "extra_tools:doughfood"
+    },
+    "3": {
+      "item": "extra_tools:cheesefood"
+    },
+    "4": {
+      "item": "extra_tools:peperoni"
+    },
+    "5": {
+      "item": "extra_tools:cheesefood"
+    },
+    "7": {
+      "item": "extra_tools:cheesefood"
+    }
+  },
+  "result": {
+    "item": "extra_tools:pizzafood",
+    "count": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extra_tools:elementuningot"
+    },
+    "1": {
+      "item": "extra_tools:elementuningot"
+    },
+    "2": {
+      "item": "extra_tools:elementuningot"
+    },
+    "3": {
+      "item": "extra_tools:elementuningot"
+    },
+    "4": {
+      "item": "extra_tools:elementuningot"
+    },
+    "5": {
+      "item": "extra_tools:elementuningot"
+    },
+    "6": {
+      "item": "extra_tools:elementuningot"
+    },
+    "7": {
+      "item": "extra_tools:elementuningot"
+    },
+    "8": {
+      "item": "extra_tools:elementuningot"
+    }
+  },
+  "result": {
+    "item": "extra_tools:corruptedingot",
+    "count": 1
+  }
+}

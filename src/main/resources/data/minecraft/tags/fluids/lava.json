@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "extra_tools:molten_iron",
+    "extra_tools:molten_iron_flowing",
+    "extra_tools:petrol",
+    "extra_tools:petrol_flowing"
+  ]
+}

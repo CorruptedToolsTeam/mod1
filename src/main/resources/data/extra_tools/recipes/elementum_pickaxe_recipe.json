@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "extra_tools:wither_pickaxe"
+  },
+  "addition": {
+    "item": "extra_tools:elementuningot"
+  },
+  "result": {
+    "item": "extra_tools:elementum_pickaxe"
+  }
+}

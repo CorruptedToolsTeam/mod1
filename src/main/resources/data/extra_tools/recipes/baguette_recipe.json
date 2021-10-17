@@ -1,0 +1,24 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bread"
+    },
+    "1": {
+      "item": "minecraft:bread"
+    },
+    "2": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "extra_tools:baguette",
+    "count": 1
+  }
+}

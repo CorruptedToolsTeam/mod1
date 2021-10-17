@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc",
+    "name": "Press Start",
+    "description": "Nice dude.",
+    "creativeTab": {
+      "value": "CUSTOM:ExtraStuff"
+    },
+    "music": {
+      "value": "CUSTOM:press_start"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

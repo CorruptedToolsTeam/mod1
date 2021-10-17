@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "wither_pick",
+    "customModelName": "Normal",
+    "name": "Wither Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ExtraStuff"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 50,
+    "efficiency": 40.0,
+    "attackSpeed": 1.0,
+    "enchantability": 40,
+    "damageVsEntity": 4.0,
+    "usageCount": 700,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Blocks.WITHER_ROSE"
+      },
+      {
+        "value": "Items.SKULL#1"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

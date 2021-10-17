@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "extra_tools:dragon_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.draponpickadv.title"
+    },
+    "description": {
+      "translate": "advancements.draponpickadv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "draponpickadv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "extra_tools:dragon_pickaxe",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 800
+  },
+  "parent": "extra_tools:obsidianpickaxeadv"
+}

@@ -1,0 +1,30 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:polished_blackstone_button"
+    },
+    "3": {
+      "item": "minecraft:polished_blackstone_button"
+    },
+    "4": {
+      "item": "minecraft:jukebox"
+    },
+    "5": {
+      "item": "minecraft:polished_blackstone_button"
+    },
+    "7": {
+      "item": "minecraft:polished_blackstone_button"
+    }
+  },
+  "result": {
+    "item": "extra_tools:press_start",
+    "count": 1
+  }
+}

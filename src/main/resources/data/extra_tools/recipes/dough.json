@@ -1,0 +1,16 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "extra_tools:doughfood",
+    "count": 1
+  }
+}

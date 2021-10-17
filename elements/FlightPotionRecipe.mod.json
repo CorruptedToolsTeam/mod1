@@ -1,0 +1,23 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "POTION:SLOW_FALLING"
+    },
+    "brewingIngredientStack": {
+      "value": "Items.PHANTOM_MEMBRANE"
+    },
+    "brewingReturnStack": {
+      "value": "POTION:CUSTOM:FlightPotion"
+    },
+    "name": "flight_potion_recipe",
+    "namespace": "mod"
+  }
+}

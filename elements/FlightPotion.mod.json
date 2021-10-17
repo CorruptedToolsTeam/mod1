@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Flight",
+    "splashName": "Splash Potion of Flight",
+    "lingeringName": "Lingering Potion of Flight",
+    "arrowName": "Arrow of Flight",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:Flightpotioneffect"
+        },
+        "duration": 2600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

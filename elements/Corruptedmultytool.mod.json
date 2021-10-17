@@ -1,0 +1,34 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamond_axe",
+    "customModelName": "Normal",
+    "name": "Corrupted Multy Tool",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ExtraStuff"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 100,
+    "efficiency": 70.0,
+    "attackSpeed": 1.0,
+    "enchantability": 55,
+    "damageVsEntity": 16.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Corruptedmultytool"
+      },
+      {
+        "value": "CUSTOM:Corruptedingot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

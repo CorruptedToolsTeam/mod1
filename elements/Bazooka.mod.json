@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "bazooka",
+    "customModelName": "Normal",
+    "name": "Bazooka",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ExtraStuff"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.TNT_MINECART"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "item.crossbow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 10.0,
+    "bulletDamage": 100.0,
+    "bulletKnockback": 10,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "Items.TNT_MINECART"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

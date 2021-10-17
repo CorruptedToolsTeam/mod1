@@ -1,0 +1,26 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3  "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "2": {
+      "item": "minecraft:tnt_minecart"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "extra_tools:bazooka",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "minecraft:netherite_block"
+    },
+    "2": {
+      "item": "minecraft:water_bucket"
+    },
+    "3": {
+      "item": "minecraft:vine"
+    },
+    "4": {
+      "item": "minecraft:magma_block"
+    },
+    "5": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "extra_tools:elementuningot",
+    "count": 1
+  }
+}

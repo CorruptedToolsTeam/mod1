@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_block"
+    },
+    "title": {
+      "translate": "advancements.netherite_world.title"
+    },
+    "description": {
+      "translate": "advancements.netherite_world.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "netherite_world": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "extra_tools:netherite_dimension"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 3000
+  },
+  "parent": "extra_tools:golden_hearted"
+}

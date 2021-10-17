@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BUTTON"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BUTTON"
+      },
+      {
+        "value": "Blocks.JUKEBOX"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BUTTON"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BUTTON"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PressStart"
+    },
+    "name": "press_start_disc",
+    "namespace": "mod"
+  }
+}

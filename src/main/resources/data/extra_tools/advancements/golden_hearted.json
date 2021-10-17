@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "title": {
+      "translate": "advancements.golden_hearted.title"
+    },
+    "description": {
+      "translate": "advancements.golden_hearted.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "golden_hearted": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "extra_tools:golddimension"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 700
+  },
+  "parent": "minecraft:story/root"
+}

@@ -1,0 +1,23 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "CUSTOM:DragonPickaxe"
+    },
+    "brewingIngredientStack": {
+      "value": "Items.NETHER_STAR"
+    },
+    "brewingReturnStack": {
+      "value": "CUSTOM:WitherPickaxe"
+    },
+    "name": "wither_pickaxe_recipe",
+    "namespace": "mod"
+  }
+}

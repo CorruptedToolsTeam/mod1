@@ -1,0 +1,42 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extra_tools:corruptedingot"
+    },
+    "1": {
+      "item": "extra_tools:corruptedingot"
+    },
+    "2": {
+      "item": "extra_tools:corruptedingot"
+    },
+    "3": {
+      "item": "extra_tools:corruptedingot"
+    },
+    "4": {
+      "item": "extra_tools:corruptedingot"
+    },
+    "5": {
+      "item": "extra_tools:corruptedingot"
+    },
+    "6": {
+      "item": "extra_tools:corruptedingot"
+    },
+    "7": {
+      "item": "extra_tools:corruptedingot"
+    },
+    "8": {
+      "item": "extra_tools:corruptedingot"
+    }
+  },
+  "result": {
+    "item": "extra_tools:corruptedpillagerhead",
+    "count": 1
+  }
+}

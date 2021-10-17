@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Mida's Touch",
+    "splashName": "Splash Potion of Mida's Touch",
+    "lingeringName": "Lingering Potion of Mida's Touch",
+    "arrowName": "Arrow of Mida's Touch",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:Midastoucheffect"
+        },
+        "duration": 600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

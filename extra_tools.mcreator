@@ -1,0 +1,1009 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ObsidianPickaxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_pickaxe"
+    },
+    {
+      "name": "Obsidianpickaxerecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidianpickaxerecipe"
+    },
+    {
+      "name": "SuperDimension",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_biome"
+    },
+    {
+      "name": "Golddimension",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golddimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "GoldenDimensionigniter",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_dimensionigniter"
+    },
+    {
+      "name": "MoltenIron",
+      "type": "fluid",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_iron",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "Nothing",
+      "type": "enchantment",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nothing"
+    },
+    {
+      "name": "ExtraStuff",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_stuff"
+    },
+    {
+      "name": "Ammo",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ammo"
+    },
+    {
+      "name": "AmmoRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ammo_recipe"
+    },
+    {
+      "name": "Gun",
+      "type": "rangeditem",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gun"
+    },
+    {
+      "name": "GunRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gun_recipe"
+    },
+    {
+      "name": "Doughfood",
+      "type": "food",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "doughfood"
+    },
+    {
+      "name": "Dough",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dough"
+    },
+    {
+      "name": "Cheesefood",
+      "type": "food",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheesefood"
+    },
+    {
+      "name": "Cheese",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheese"
+    },
+    {
+      "name": "Peperoni",
+      "type": "food",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peperoni"
+    },
+    {
+      "name": "Peperonirecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peperonirecipe"
+    },
+    {
+      "name": "Pizzafood",
+      "type": "food",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pizzafood"
+    },
+    {
+      "name": "Pizza",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pizza"
+    },
+    {
+      "name": "Uncookedspaghetti",
+      "type": "food",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uncookedspaghetti"
+    },
+    {
+      "name": "Spaghetti",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spaghetti"
+    },
+    {
+      "name": "Spaghetticooked",
+      "type": "food",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spaghetticooked"
+    },
+    {
+      "name": "Cookedspagrecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookedspagrecipe"
+    },
+    {
+      "name": "Spaghettiinabowl",
+      "type": "food",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spaghettiinabowl"
+    },
+    {
+      "name": "Spaginabowlrecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spaginabowlrecipe"
+    },
+    {
+      "name": "Bazooka",
+      "type": "rangeditem",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bazooka"
+    },
+    {
+      "name": "Bazookarecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bazookarecipe"
+    },
+    {
+      "name": "NetheriteDimension",
+      "type": "dimension",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_dimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "NetheriteDimensionIngiter",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_dimension_ingiter"
+    },
+    {
+      "name": "GoldenHearted",
+      "type": "achievement",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_hearted"
+    },
+    {
+      "name": "NetheriteWorld",
+      "type": "achievement",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_world"
+    },
+    {
+      "name": "PressStart",
+      "type": "musicdisc",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "press_start"
+    },
+    {
+      "name": "Pressstartdisc",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pressstartdisc"
+    },
+    {
+      "name": "Burger",
+      "type": "food",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "burger"
+    },
+    {
+      "name": "Burgerrecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "burgerrecipe"
+    },
+    {
+      "name": "Baguette",
+      "type": "food",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "baguette"
+    },
+    {
+      "name": "BaguetteRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "baguette_recipe"
+    },
+    {
+      "name": "Petrol",
+      "type": "fluid",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petrol",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "DragonPickaxe",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_pickaxe"
+    },
+    {
+      "name": "Dragonpickrecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragonpickrecipe"
+    },
+    {
+      "name": "WitherPickaxe",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wither_pickaxe"
+    },
+    {
+      "name": "Witherpickaxerecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "witherpickaxerecipe"
+    },
+    {
+      "name": "Obsidianpickaxeadv",
+      "type": "achievement",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidianpickaxeadv"
+    },
+    {
+      "name": "Draponpickadv",
+      "type": "achievement",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "draponpickadv"
+    },
+    {
+      "name": "WitherPickAdv",
+      "type": "achievement",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wither_pick_adv"
+    },
+    {
+      "name": "ElementumPickaxe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elementum_pickaxe"
+    },
+    {
+      "name": "Elementuningot",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elementuningot"
+    },
+    {
+      "name": "Elementumingotrecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elementumingotrecipe"
+    },
+    {
+      "name": "ElementumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elementum_pickaxe_recipe"
+    },
+    {
+      "name": "Elementunpick",
+      "type": "achievement",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elementunpick"
+    },
+    {
+      "name": "Corruptedmultytool",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedmultytool"
+    },
+    {
+      "name": "Corruptedingot",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedingot"
+    },
+    {
+      "name": "Corruptedingotrecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedingotrecipe"
+    },
+    {
+      "name": "Corruptedmultytooladv",
+      "type": "achievement",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedmultytooladv"
+    },
+    {
+      "name": "Corruptedpillager",
+      "type": "livingentity",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedpillager"
+    },
+    {
+      "name": "Corruptingtablegui",
+      "type": "gui",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptingtablegui"
+    },
+    {
+      "name": "Corruptingtable",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptingtable"
+    },
+    {
+      "name": "Corruptingtablerecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptingtablerecipe"
+    },
+    {
+      "name": "Corruptingtableprocedure",
+      "type": "procedure",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptingtableprocedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Jumpinessenchant",
+      "type": "enchantment",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jumpinessenchant"
+    },
+    {
+      "name": "Jumpinessprocidure",
+      "type": "procedure",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jumpinessprocidure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Corruptedpillagerhead",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedpillagerhead"
+    },
+    {
+      "name": "Corruptedpillagerbossspawner",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedpillagerbossspawner",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cubeoffun",
+      "type": "livingentity",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cubeoffun"
+    },
+    {
+      "name": "Corruptedpillagerheadrecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedpillagerheadrecipe"
+    },
+    {
+      "name": "Midastouch",
+      "type": "potion",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "midastouch"
+    },
+    {
+      "name": "Midastoucheffect",
+      "type": "potioneffect",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "midastoucheffect"
+    },
+    {
+      "name": "Midastouchprocedure",
+      "type": "procedure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "midastouchprocedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Midastouchpartickles",
+      "type": "particle",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "midastouchpartickles"
+    },
+    {
+      "name": "Midaspot",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "midaspot"
+    },
+    {
+      "name": "CorruptedballRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedball_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Corruptedball",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedball"
+    },
+    {
+      "name": "Ignition",
+      "type": "enchantment",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ignition"
+    },
+    {
+      "name": "Ignitionprocedure",
+      "type": "procedure",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ignitionprocedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Flightparticle",
+      "type": "particle",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flightparticle"
+    },
+    {
+      "name": "Flightpotioneffect",
+      "type": "potioneffect",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flightpotioneffect"
+    },
+    {
+      "name": "FlightPotion",
+      "type": "potion",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flight_potion"
+    },
+    {
+      "name": "FlightPotionProcedure",
+      "type": "procedure",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flight_potion_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FlightPotionRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flight_potion_recipe"
+    },
+    {
+      "name": "PvpPotion",
+      "type": "potion",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pvp_potion"
+    },
+    {
+      "name": "PVPPotionrecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pvp_potionrecipe"
+    },
+    {
+      "name": "CorruptedApple",
+      "type": "food",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corrupted_apple"
+    },
+    {
+      "name": "CorruptedAppleFoodEaten",
+      "type": "procedure",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corrupted_apple_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "press_start",
+      "files": [
+        "press_start"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.minecraft.splash_potion.effect.midastouch": "Splash Potion of Mida\u0027s Touch",
+      "item.minecraft.potion.effect.pvp_potion": "Potion of PVP",
+      "item.extra_tools.obsidian_pickaxe": "Obsidian Pickaxe",
+      "item.minecraft.tipped_arrow.effect.flight_potion": "Arrow of Flight",
+      "item.minecraft.potion.effect.midastouch": "Potion of Mida\u0027s Touch",
+      "itemGroup.tabextra_stuff": "Extra Stuff",
+      "item.extra_tools.ammo": "Ammo",
+      "enchantment.extra_tools.jumpinessenchant": "Jumpiness",
+      "item.extra_tools.baguette": "Baguette",
+      "advancements.obsidianpickaxeadv.title": "The Journey begins...",
+      "item.minecraft.potion.effect.flight_potion": "Potion of Flight",
+      "item.extra_tools.bazooka": "Bazooka",
+      "advancements.golden_hearted.descr": "Enter the golden dimension...",
+      "item.minecraft.tipped_arrow.effect.midastouch": "Arrow of Mida\u0027s Touch",
+      "enchantment.extra_tools.nothing": "Curse Of Unenchanting",
+      "item.extra_tools.cubeoffun_spawn_egg": "Cube Of Fun Spawn Egg",
+      "item.extra_tools.corruptedball": "Corrupted Ball",
+      "advancements.golden_hearted.title": "Golden Hearted",
+      "item.extra_tools.press_start": "Press Start",
+      "fluid.extra_tools.petrol": "Petrol",
+      "item.extra_tools.peperoni": "Peperoni",
+      "advancements.obsidianpickaxeadv.descr": "Craft a obsidian pickaxe.",
+      "item.minecraft.tipped_arrow.effect.pvp_potion": "Arrow of PVP Potion",
+      "advancements.corruptedmultytooladv.descr": "Get the CORRUPTED????????????????????? multytool",
+      "item.extra_tools.spaghetticooked": "Spaghetti Cooked",
+      "item.extra_tools.corruptedmultytool": "Corrupted Multy Tool",
+      "item.extra_tools.corrupted_apple": "Corrupted Apple",
+      "item.extra_tools.gun": "Gun",
+      "advancements.wither_pick_adv.descr": "Obtain a wither pickaxe...",
+      "item.extra_tools.elementum_pickaxe": "Elementum Pickaxe",
+      "biome.extra_tools.gold_biome": "Golden Biome",
+      "item.extra_tools.uncookedspaghetti": "Uncooked Spaghetti",
+      "item.extra_tools.wither_pickaxe": "Wither Pickaxe",
+      "item.extra_tools.dragon_pickaxe": "Dragon Pickaxe",
+      "advancements.netherite_world.descr": "Enter the hidden world of the Netherite Dimension.",
+      "item.extra_tools.petrol_bucket": "Bucket of Petrol",
+      "item.minecraft.splash_potion.effect.pvp_potion": "Splash Potion of PVP",
+      "item.extra_tools.elementuningot": "Elementum ingot",
+      "item.minecraft.lingering_potion.effect.midastouch": "Lingering Potion of Mida\u0027s Touch",
+      "item.extra_tools.burger": "Burger",
+      "block.extra_tools.corruptingtable": "Corrupting Table",
+      "effect.midastoucheffect": "Mida\u0027s Touch",
+      "advancements.elementunpick.descr": "Obtain an elementium pickaxe.",
+      "block.extra_tools.petrol": "Petrol",
+      "advancements.draponpickadv.descr": "Craft a dragon pickaxe",
+      "advancements.draponpickadv.title": "Dragon\u0027s Magic",
+      "advancements.elementunpick.title": "The pickaxe with a lot of elements",
+      "effect.flightpotioneffect": "Flight",
+      "subtitles.press_start": "",
+      "item.extra_tools.press_start.desc": "Nice dude.",
+      "enchantment.extra_tools.ignition": "Curse of Ignition",
+      "item.minecraft.splash_potion.effect.flight_potion": "Splash Potion of Flight",
+      "block.extra_tools.molten_iron": "Molten Iron",
+      "item.extra_tools.corruptedingot": "Corrupted ingot",
+      "item.extra_tools.doughfood": "Dough",
+      "block.extra_tools.corruptedpillagerhead": "Corrupted Pillager Head",
+      "item.extra_tools.pizzafood": "Pizza",
+      "item.extra_tools.corruptedpillager_spawn_egg": "Corrupted Pillager Spawn Egg",
+      "item.extra_tools.netherite_dimension": "Netherite Dimension Portal Igniter",
+      "entity.extra_tools.corruptedpillager": "Corrupted Pillager",
+      "advancements.wither_pick_adv.title": "Withering Pickaxe",
+      "item.minecraft.lingering_potion.effect.flight_potion": "Lingering Potion of Flight",
+      "item.extra_tools.spaghettiinabowl": "Spaghetti in a bowl",
+      "item.extra_tools.golddimension": "Golddimension Portal Igniter",
+      "entity.extra_tools.cubeoffun": "Cube Of Fun",
+      "item.extra_tools.cheesefood": "Cheese",
+      "advancements.corruptedmultytooladv.title": "Corrupted",
+      "fluid.extra_tools.molten_iron": "Molten Iron",
+      "item.extra_tools.molten_iron_bucket": "Molten Iron Bucket",
+      "advancements.netherite_world.title": "Salvation",
+      "item.minecraft.lingering_potion.effect.pvp_potion": "Lingering Potion of PVP"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "extra_tools",
+    "modName": "Extra Tools",
+    "version": "1.0.0",
+    "author": "dimit, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.extratools",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

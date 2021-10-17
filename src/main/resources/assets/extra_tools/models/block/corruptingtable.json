@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extra_tools:blocks/molten_iron",
+    "up": "extra_tools:blocks/molten_iron",
+    "north": "extra_tools:blocks/molten_iron",
+    "east": "extra_tools:blocks/molten_iron",
+    "south": "extra_tools:blocks/molten_iron",
+    "west": "extra_tools:blocks/molten_iron",
+    "particle": "extra_tools:blocks/molten_iron"
+  }
+}
