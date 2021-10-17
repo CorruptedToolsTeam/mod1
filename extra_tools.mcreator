@@ -896,6 +896,15 @@
           }
         ]
       }
+    },
+    {
+      "name": "CorruptedApplerecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corrupted_applerecipe"
     }
   ],
   "variable_elements": [],
