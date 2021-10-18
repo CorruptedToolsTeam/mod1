@@ -1,0 +1,74 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "netherite_helmet",
+    "enableBody": true,
+    "textureBody": "netherite_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "netherite_leggings",
+    "enableBoots": true,
+    "textureBoots": "netherite_boots",
+    "onHelmetTick": {
+      "name": "Corruptedarmorprocedure"
+    },
+    "onBodyTick": {
+      "name": "Corruptedarmorprocedure"
+    },
+    "onLeggingsTick": {
+      "name": "Corruptedarmorprocedure"
+    },
+    "onBootsTick": {
+      "name": "Corruptedarmorprocedure"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ExtraStuff"
+    },
+    "armorTextureFile": "corrupted_armor_",
+    "helmetName": "Corrupted Helmet",
+    "bodyName": "Corrupted Chestplate",
+    "leggingsName": "Corrupted Leggings",
+    "bootsName": "Corrupted Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 50,
+    "damageValueHelmet": 10,
+    "damageValueBody": 10,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 10,
+    "enchantability": 50,
+    "toughness": 0.0,
+    "knockbackResistance": 1.0,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Corruptedball"
+      }
+    ]
+  }
+}
