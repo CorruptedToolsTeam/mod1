@@ -1,0 +1,12 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "extra_tools:ruby_ore"
+  },
+  "result": {
+    "item": "extra_tools:ruby"
+  }
+}

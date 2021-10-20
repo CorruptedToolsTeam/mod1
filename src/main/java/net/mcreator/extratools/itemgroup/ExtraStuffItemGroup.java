@@ -7,7 +7,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 
-import net.mcreator.extratools.item.ObsidianPickaxeItem;
+import net.mcreator.extratools.item.RubyItem;
 import net.mcreator.extratools.ExtraToolsModElements;
 
 @ExtraToolsModElements.ModElement.Tag
@@ -22,7 +22,7 @@ public class ExtraStuffItemGroup extends ExtraToolsModElements.ModElement {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(ObsidianPickaxeItem.block);
+				return new ItemStack(RubyItem.block);
 			}
 
 			@OnlyIn(Dist.CLIENT)

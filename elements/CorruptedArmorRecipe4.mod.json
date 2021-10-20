@@ -1,0 +1,23 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.NETHERITE_BOOTS"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:Corruptedingot"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:Corruptedarmor.boots"
+    },
+    "name": "corrupted_armor_recipe_4",
+    "namespace": "mod"
+  }
+}

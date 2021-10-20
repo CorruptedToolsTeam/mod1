@@ -1,0 +1,39 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_block"
+    },
+    "2": {
+      "item": "minecraft:gold_block"
+    },
+    "3": {
+      "item": "minecraft:gold_ingot"
+    },
+    "4": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "5": {
+      "item": "minecraft:gold_ingot"
+    },
+    "6": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "7": {
+      "item": "extra_tools:ruby"
+    },
+    "8": {
+      "item": "minecraft:enchanted_golden_apple"
+    }
+  },
+  "result": {
+    "item": "extra_tools:midas_necklace_chestplate",
+    "count": 1
+  }
+}

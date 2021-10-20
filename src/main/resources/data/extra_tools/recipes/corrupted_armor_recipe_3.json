@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_leggings"
+  },
+  "addition": {
+    "item": "extra_tools:corruptedingot"
+  },
+  "result": {
+    "item": "extra_tools:corruptedarmor_leggings"
+  }
+}

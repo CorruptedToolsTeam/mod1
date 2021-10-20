@@ -955,6 +955,154 @@
           }
         ]
       }
+    },
+    {
+      "name": "CorruptedArmorRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corrupted_armor_recipe"
+    },
+    {
+      "name": "CorruptedArmorRecipe2",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corrupted_armor_recipe_2"
+    },
+    {
+      "name": "CorruptedArmorRecipe3",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corrupted_armor_recipe_3"
+    },
+    {
+      "name": "CorruptedArmorRecipe4",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corrupted_armor_recipe_4"
+    },
+    {
+      "name": "FlightEmerald",
+      "type": "item",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flight_emerald"
+    },
+    {
+      "name": "FlightEmeraldProcedure",
+      "type": "procedure",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flight_emerald_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FlightEmeraldRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flight_emerald_recipe"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
+    },
+    {
+      "name": "RubyOreRecipe1",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_recipe_1"
+    },
+    {
+      "name": "RubyOreRecipe2",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_recipe_2"
+    },
+    {
+      "name": "MidasNecklace",
+      "type": "armor",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "midas_necklace",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "MidasNecklaceProcedure",
+      "type": "procedure",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "midas_necklace_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MidasNecklacerecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "midas_necklacerecipe"
     }
   ],
   "variable_elements": [],
@@ -970,6 +1118,7 @@
   ],
   "language_map": {
     "en_us": {
+      "item.extra_tools.midas_necklace_helmet": "Midas Necklace Helmet",
       "item.minecraft.splash_potion.effect.midastouch": "Splash Potion of Mida\u0027s Touch",
       "item.minecraft.potion.effect.pvp_potion": "Potion of PVP",
       "item.extra_tools.obsidian_pickaxe": "Obsidian Pickaxe",
@@ -989,15 +1138,18 @@
       "item.extra_tools.corruptedball": "Corrupted Ball",
       "advancements.golden_hearted.title": "Golden Hearted",
       "item.extra_tools.press_start": "Press Start",
+      "item.extra_tools.ruby": "Ruby",
       "fluid.extra_tools.petrol": "Petrol",
       "item.extra_tools.peperoni": "Peperoni",
       "advancements.obsidianpickaxeadv.descr": "Craft a obsidian pickaxe.",
       "item.minecraft.tipped_arrow.effect.pvp_potion": "Arrow of PVP Potion",
       "advancements.corruptedmultytooladv.descr": "Get the CORRUPTED????????????????????? multytool",
       "item.minecraft.potion.effect.potion_of_sneaking": "Potion of Sneaking",
+      "block.extra_tools.ruby_ore": "Ruby Ore",
       "item.extra_tools.spaghetticooked": "Spaghetti Cooked",
       "item.extra_tools.corruptedmultytool": "Corrupted Multy Tool",
       "item.extra_tools.corrupted_apple": "Corrupted Apple",
+      "item.extra_tools.midas_necklace_chestplate": "Mida\u0027s Necklace",
       "item.extra_tools.gun": "Gun",
       "advancements.wither_pick_adv.descr": "Obtain a wither pickaxe...",
       "item.extra_tools.elementum_pickaxe": "Elementum Pickaxe",
@@ -1026,9 +1178,11 @@
       "item.extra_tools.corruptedarmor_helmet": "Corrupted Helmet",
       "enchantment.extra_tools.ignition": "Curse of Ignition",
       "item.minecraft.splash_potion.effect.flight_potion": "Splash Potion of Flight",
+      "item.extra_tools.flight_emerald": "Flight Emerald",
       "item.minecraft.splash_potion.effect.potion_of_sneaking": "Splash Potion of Sneaking",
       "block.extra_tools.molten_iron": "Molten Iron",
       "item.extra_tools.corruptedingot": "Corrupted ingot",
+      "item.extra_tools.midas_necklace_boots": "Midas Necklace Boots",
       "item.extra_tools.doughfood": "Dough",
       "block.extra_tools.corruptedpillagerhead": "Corrupted Pillager Head",
       "item.extra_tools.corruptedarmor_boots": "Corrupted Boots",
@@ -1038,6 +1192,7 @@
       "entity.extra_tools.corruptedpillager": "Corrupted Pillager",
       "advancements.wither_pick_adv.title": "Withering Pickaxe",
       "item.minecraft.lingering_potion.effect.potion_of_sneaking": "Lingering Potion of Sneaking",
+      "item.extra_tools.midas_necklace_leggings": "Midas Necklace Leggings",
       "item.minecraft.lingering_potion.effect.flight_potion": "Lingering Potion of Flight",
       "item.extra_tools.spaghettiinabowl": "Spaghetti in a bowl",
       "item.extra_tools.golddimension": "Golddimension Portal Igniter",

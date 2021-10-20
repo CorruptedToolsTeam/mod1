@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extra_tools:blocks/ruby_ore",
+    "up": "extra_tools:blocks/ruby_ore",
+    "north": "extra_tools:blocks/ruby_ore",
+    "east": "extra_tools:blocks/ruby_ore",
+    "south": "extra_tools:blocks/ruby_ore",
+    "west": "extra_tools:blocks/ruby_ore",
+    "particle": "extra_tools:blocks/ruby_ore"
+  }
+}
