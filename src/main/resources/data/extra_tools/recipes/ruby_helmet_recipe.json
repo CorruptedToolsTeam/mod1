@@ -1,0 +1,29 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "extra_tools:ruby"
+    },
+    "1": {
+      "item": "extra_tools:ruby"
+    },
+    "2": {
+      "item": "extra_tools:ruby"
+    },
+    "3": {
+      "item": "extra_tools:ruby"
+    },
+    "5": {
+      "item": "extra_tools:ruby"
+    }
+  },
+  "result": {
+    "item": "extra_tools:rubyarmor_helmet",
+    "count": 1
+  }
+}

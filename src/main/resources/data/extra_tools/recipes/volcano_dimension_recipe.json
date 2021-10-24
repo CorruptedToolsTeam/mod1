@@ -1,0 +1,20 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "extra_tools:ruby"
+    },
+    "2": {
+      "item": "minecraft:cracked_polished_blackstone_bricks"
+    }
+  },
+  "result": {
+    "item": "extra_tools:volcanic_destruction_dimension",
+    "count": 1
+  }
+}

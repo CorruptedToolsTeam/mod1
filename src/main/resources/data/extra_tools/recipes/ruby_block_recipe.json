@@ -1,0 +1,42 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extra_tools:ruby"
+    },
+    "1": {
+      "item": "extra_tools:ruby"
+    },
+    "2": {
+      "item": "extra_tools:ruby"
+    },
+    "3": {
+      "item": "extra_tools:ruby"
+    },
+    "4": {
+      "item": "extra_tools:ruby"
+    },
+    "5": {
+      "item": "extra_tools:ruby"
+    },
+    "6": {
+      "item": "extra_tools:ruby"
+    },
+    "7": {
+      "item": "extra_tools:ruby"
+    },
+    "8": {
+      "item": "extra_tools:ruby"
+    }
+  },
+  "result": {
+    "item": "extra_tools:ruby_block",
+    "count": 1
+  }
+}

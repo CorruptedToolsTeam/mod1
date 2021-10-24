@@ -1,0 +1,16 @@
+{
+  "group": "extra_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "extra_tools:ruby_block"
+    }
+  },
+  "result": {
+    "item": "extra_tools:ruby",
+    "count": 9
+  }
+}

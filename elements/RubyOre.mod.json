@@ -128,11 +128,17 @@
     "blocksToReplace": [
       {
         "value": "Blocks.STONE"
+      },
+      {
+        "value": "Blocks.REDSTONE_ORE"
+      },
+      {
+        "value": "Blocks.LIT_REDSTONE_ORE"
       }
     ],
     "frequencyPerChunks": 2,
     "frequencyOnChunk": 16,
-    "minGenerateHeight": 32,
-    "maxGenerateHeight": 64
+    "minGenerateHeight": 3,
+    "maxGenerateHeight": 32
   }
 }

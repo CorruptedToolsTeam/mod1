@@ -87,6 +87,10 @@ public class RubyOreBlock extends ExtraToolsModElements.ModElement {
 			boolean blockCriteria = false;
 			if (blockAt.getBlock() == Blocks.STONE)
 				blockCriteria = true;
+			if (blockAt.getBlock() == Blocks.REDSTONE_ORE)
+				blockCriteria = true;
+			if (blockAt.getBlock() == Blocks.REDSTONE_ORE)
+				blockCriteria = true;
 			return blockCriteria;
 		}
 
@@ -111,7 +115,7 @@ public class RubyOreBlock extends ExtraToolsModElements.ModElement {
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 16)).range(64)
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 16)).range(32)
 					.square().func_242731_b(2);
 			event.getRegistry().register(feature.setRegistryName("ruby_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("extra_tools:ruby_ore"), configuredFeature);
