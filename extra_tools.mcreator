@@ -1410,46 +1410,13 @@
       "registry_name": "pirate_ship"
     },
     {
-      "name": "MagmaWalker",
-      "type": "enchantment",
+      "name": "Police",
+      "type": "livingentity",
       "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "magma_walker"
-    },
-    {
-      "name": "MagmaWalkerProcedure",
-      "type": "procedure",
-      "sortid": 129,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "magma_walker_procedure",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "itemstack",
-            "type": "itemstack"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
+      "registry_name": "police"
     }
   ],
   "variable_elements": [],
@@ -1483,6 +1450,7 @@
       "advancements.corruptedmultytooladv.descr": "Get the CORRUPTED????????????????????? multytool",
       "item.minecraft.potion.effect.potion_of_sneaking": "Potion of Sneaking",
       "block.extra_tools.ruby_ore": "Ruby Ore",
+      "entity.extra_tools.police": "Police Steve",
       "advancements.wither_pick_adv.descr": "Obtain a wither pickaxe...",
       "item.extra_tools.elementum_pickaxe": "Elementum Pickaxe",
       "item.extra_tools.dragon_pickaxe": "Dragon Pickaxe",
@@ -1503,8 +1471,8 @@
       "item.extra_tools.flight_emerald": "Flight Emerald",
       "item.minecraft.splash_potion.effect.potion_of_sneaking": "Splash Potion of Sneaking",
       "block.extra_tools.ruby_block": "Ruby Block",
-      "item.extra_tools.corruptedingot": "Corrupted ingot",
       "item.extra_tools.midas_necklace_boots": "Midas Necklace Boots",
+      "item.extra_tools.corruptedingot": "Corrupted ingot",
       "item.extra_tools.doughfood": "Dough",
       "item.extra_tools.pizzafood": "Pizza",
       "item.extra_tools.corruptedpillager_spawn_egg": "Corrupted Pillager Spawn Egg",
@@ -1555,8 +1523,8 @@
       "item.extra_tools.corruptedarmor_leggings": "Corrupted Leggings",
       "advancements.elementunpick.title": "The pickaxe with a lot of elements",
       "subtitles.press_start": "",
+      "item.extra_tools.police_spawn_egg": "Police Steve Spawn Egg",
       "block.extra_tools.molten_iron": "Molten Iron",
-      "enchantment.extra_tools.magma_walker": "Magma Walker",
       "block.extra_tools.corruptedpillagerhead": "Corrupted Pillager Head",
       "item.extra_tools.corruptedarmor_boots": "Corrupted Boots",
       "item.minecraft.lingering_potion.effect.potion_of_sneaking": "Lingering Potion of Sneaking",
