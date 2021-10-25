@@ -1408,6 +1408,48 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "pirate_ship"
+    },
+    {
+      "name": "MagmaWalker",
+      "type": "enchantment",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_walker"
+    },
+    {
+      "name": "MagmaWalkerProcedure",
+      "type": "procedure",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_walker_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -1514,6 +1556,7 @@
       "advancements.elementunpick.title": "The pickaxe with a lot of elements",
       "subtitles.press_start": "",
       "block.extra_tools.molten_iron": "Molten Iron",
+      "enchantment.extra_tools.magma_walker": "Magma Walker",
       "block.extra_tools.corruptedpillagerhead": "Corrupted Pillager Head",
       "item.extra_tools.corruptedarmor_boots": "Corrupted Boots",
       "item.minecraft.lingering_potion.effect.potion_of_sneaking": "Lingering Potion of Sneaking",
